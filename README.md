@@ -14,7 +14,7 @@
 <br>
 
 <p align="center">
-  <img src="./screenshot.png" alt="Screenshot">
+  <img src="img\concluido.png" alt="Screenshot">
 </p>
 
 ## 💻 Sobre o projeto
