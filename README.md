@@ -32,4 +32,4 @@ Esse é um simples jogo de adivinhação, onde o objetivo é descobrir um númer
 1. Clone o repositório usando o Git em sua máquina:
 
 ```bash
-git clone https://github.com/seu-usuario/jogo-adivinhacao.git
+git clone https://github.com/alysomCRY/adivinhacaojavascript
